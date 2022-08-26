@@ -1,6 +1,6 @@
 baseURL = 'http://nuutti.no/'
 languageCode = 'en-us'
-title = 'I am nuutti.no       I am sentient.'
+title = 'I am nuutti.no       I am sentient!'
 theme = "hyde"
 [params]
   themeColor = "theme-base-08"
