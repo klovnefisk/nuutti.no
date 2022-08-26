@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'I am nuutti.no       I am sentient.'
+theme = "hyde"
+[params]
+  themeColor = "theme-base-08"
+

@@ -1,0 +1,26 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <img src="https://pics.clipartpng.com/Realistic_Green_Tree_PNG_Clip_Art-1102.png" alt="træ" style="width:500px;height: 250px;">
+
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+     
+      <p class="lead">
+      {{ with .Site.Params.description }} {{.}} {{ else }}click everything. it tickles me. {{end}}
+      </p>
+      
+
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="https://www.youtube.com/watch?v=bJTx5dPv3fc">you cant escape</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. Nuutti was here. {{end}}</p>
+  </div>
+</aside>
