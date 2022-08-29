@@ -18,8 +18,6 @@ However, i will not be doing any art, or painting for that matter! (well, perhap
 
 &nbsp;
 
-*Hell yeah! RAW! I can fuck with that!*
-
 &nbsp;
 
 &nbsp;
@@ -38,8 +36,6 @@ I will be vomiting ideas onto this digital canvas.
 
 &nbsp;
 
-*thats.. yeah.. pretty raw.*
-
 &nbsp;
 
 &nbsp;
@@ -57,8 +53,6 @@ Spraying my non-intellectual diarrhea into this cesspool we call the internet.
 &nbsp;
 
 &nbsp;
-
-*uuhhh...*
 
 &nbsp;
 
@@ -97,8 +91,6 @@ This website is my metaphorical diarrhea toilet, that i will be clogging with my
 &nbsp;
 
 &nbsp;
-
-*Are you happy with what you just wrote? In your first blogpost?*
 
 &nbsp;
 
