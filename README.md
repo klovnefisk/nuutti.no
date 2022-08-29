@@ -10,6 +10,7 @@
 hugo serve
 ```
 
+(ctrl + c for å avslutte localhost greia sånn at terminalen ikke e opptatt)
 ### Deploy-sekvens:
 
 Jeg må gjøre et par ting i terminalen:
