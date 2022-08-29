@@ -4,7 +4,7 @@ date: 2022-07-07
 draft: false
 ---
 
-# Kirkegata 61a experience.
+## Kirkegata 61a experience.
 -	Omgivelse + cast
 Når man synker ned i kjelleren, forbi den råtne mugghula som har varmtvannstanken vår, glemme man fort at det e sol ute. I kjellern e det alltid mørkt. I kjellern blir man truffet av en vegg med egglukt, da hele kollektivet spiser hovedsakelig stekte egg, til hvert eneste måltid. Veggene har samme gulfarge som en hvit tskjorte som har blitt svetta og smurt med solkrem. Vi har prøvd vårt aller beste å gjemme den veggen. Skjule veggen bak posters, skateboards, trafikkskilt, og egentlig ka som helst man kan bruke for å skjule den stygge sannheten.			Å fylle veggen fra topp til tå, med bilda og plakata føles litt ut som å kurere symptoman, i stedet for å finne kilden til det vonde.
 
@@ -30,9 +30,3 @@ Etter kl23:59 krangling. Vi e en diskusjonstrio. Vi e sjelden alle tre enig. Som
 Amund skal vise et par nye sanga han har hørt. Detta kan vare fra 10-1000 minutta. Man vet aldri ka man får, eller når man får det. Men gøy e det uansett. Bortsett fra de gangan æ e balle bakfull og amund insistere på å BLÆSTE klubbmusikk tidlig på morgenen.
 
 -No har vi en ny framtid foran oss. Toppen av lademoen. 
-
-How to write well?
--dialekt?
--virkemidla?
-
-
