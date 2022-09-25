@@ -14,15 +14,15 @@
 
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="https://www.youtube.com/watch?v=bJTx5dPv3fc"> Photo gallery 🌼</a> </li>
+        <li><a href="/gallery"> Photo gallery 🌼</a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
-        <li><a href="https://www.youtube.com/watch?v=bJTx5dPv3fc"> About me 🍹🌴 </a> </li>
+        <li><a href="/about-me"> About me 🍹🌴 </a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
-        <li><a href="https://isaks.io"> The tutor. </a> </li>
+        <li><a href="https://isaks.io"> My humble teacher </a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
