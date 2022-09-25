@@ -14,7 +14,15 @@
 
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="https://www.youtube.com/watch?v=bJTx5dPv3fc">you cant escape</a> </li>
+        <li><a href="https://www.youtube.com/watch?v=bJTx5dPv3fc"> Photo gallery 🌼</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+        <li><a href="https://www.youtube.com/watch?v=bJTx5dPv3fc"> About me 🍹🌴 </a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+        <li><a href="https://isaks.io"> The tutor. </a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
