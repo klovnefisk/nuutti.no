@@ -305,3 +305,7 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
+.post {
+  margin-bottom: 4em;
+  background-color: white; opacity: 0.86;
+}

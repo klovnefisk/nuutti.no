@@ -1,13 +1,9 @@
 {{ define "main" -}}
 
-<div class="postit">
-  My humble teacher, roomate and friend.
-  <a href="https://isaks.io">isaks.io</a>
-</div>
 
 <div class="posts">
 {{ range .Site.RegularPages -}}
-<article class="post">
+<article class="post isak">
   <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
   </h1>
