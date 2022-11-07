@@ -61,8 +61,14 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-  background-image: url("https://wallpaperaccess.com/full/322650.jpg");
-  background-repeat: repeat;
+  background-image:  url("https://iili.io/p7Edve.png"); no repeat center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: scroll;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
           text-size-adjust: 100%;
