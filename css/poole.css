@@ -61,7 +61,8 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-  background-image:  url("https://iili.io/p7Edve.png"); no repeat center center fixed;
+  /* background-image:  url("https://iili.io/p7Edve.png");*/
+  background-image:  url("/images/farger1.png");
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
@@ -153,6 +154,10 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+{
+kropp 
+bgcolor:#FF8C00
+}
 /* Code */
 code,
 pre {
@@ -161,7 +166,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #b3555e;
+  color: #FF8C00;
   background-color: #f9f9f9;
   border-radius: 3px;
 }
