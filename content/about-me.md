@@ -1,3 +1,0 @@
-# Photo gallery
-
-### Test picture
