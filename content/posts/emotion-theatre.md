@@ -27,8 +27,9 @@ Why do we pretend that homeless people dont exist when we walk past them?
             Are we angry because they remind us of inequality in the world?
 
 &nbsp;
+How about the organizations that ask for donations?
 
- I personally despise those people / ads asking for money to poor countries.
+ I personally despise ads asking for money to poor countries.
 
  Accompanied by a picture of a malnourished child.
 
