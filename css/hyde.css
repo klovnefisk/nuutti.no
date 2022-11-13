@@ -71,7 +71,7 @@ html {
 }
 
 /* Sidebar links */
-.sidebar a {
+.sidebar a.cool {
   background-color: #f5f5dc;
   border-radius: 30px;
   text-align: center;
@@ -93,7 +93,6 @@ html {
   margin-top: 0;
   font-family: "Comfortaa", SemiBold 600, serif;
   font-size: 3.25rem;
-
 }
 
 /* Sidebar nav */
