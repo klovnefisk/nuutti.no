@@ -189,8 +189,8 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-  background-color: #ffa51e;
-  background-image:  url("/images/farger1.png")
+  background-color: #ffffff;
+  background-image:  url("/images/white wall.webp")
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
