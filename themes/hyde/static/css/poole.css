@@ -154,10 +154,6 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
-{
-kropp 
-bgcolor:#FF8C00
-}
 /* Code */
 code,
 pre {
@@ -324,4 +320,5 @@ tbody tr:nth-child(odd) th {
 .bildegalleri {
   margin-bottom: 4em;
   background-color: white; opacity: 1.0;
+  
 }
