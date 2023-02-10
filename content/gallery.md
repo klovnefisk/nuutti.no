@@ -3,6 +3,29 @@
 
 ***pictures taken on my nokia3310 (2017version)***
 
+
+![torsdagsbar1](/images/torsdagsbar1.jpg)
+
+![videohelgfeb2023](/images/videohelgfeb2023.jpg)
+
+![tåkestatue](/images/tåkestatue.jpg)
+
+![symmetrisksarah](/images/symmetrisksarah.jpg)
+
+![speil](/images/speil.jpg)
+
+![nyrkkirauta](/images/nyrkkirauta.jpg)
+
+![marttithedude](/images/marttithedude.jpg)
+
+![marttipåfest](/images/marttipåfest.jpg)
+
+![incelisak](/images/incelisak.jpg)
+
+![hattetrio](/images/hattetrio.jpg)
+
+![amundDJeivindhåkon](/images/amundDJeivindhåkon.jpg)
+
 ![Stinestolpe](/images/Stinestolpe.jpg)
 
 ![Martti,elias,emil](/images/Martti,Elias,Emil.jpg)
@@ -22,7 +45,7 @@
 
 ![Mittrom](/images/Mittrom.jpg)
 
-
+![davidbrilla](/images/davidbrilla.jpg)
 
 ![Kristerlue](/images/Kristerlue.jpg)
 
@@ -66,11 +89,15 @@
 
 ![DavidGard](/images/David,Gardsnø.jpg)
 
+![gardlagemat](/images/gardlagemat.jpg)
+
 ![chriskonrad](/images/ChrisKonrad.jpg)
 
 ![bøydbanan](/images/bøydbanan.jpg)
 
 ![amunddime](/images/AmundDime.jpg)
 
-![portrettnuutti](/images/fredag-54.jpg)
+![speilselfie](/images/speilselfie.jpg)
+
+![](/images/.jpg)
 
