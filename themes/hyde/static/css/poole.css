@@ -175,8 +175,8 @@ pre {
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
+  word-break: normal;
+  word-wrap: normal;
   background-color: #f9f9f9;
 }
 pre code {
