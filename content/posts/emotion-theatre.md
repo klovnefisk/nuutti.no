@@ -1,5 +1,5 @@
 ---
-title: "emotion theatre"
+title: "emotion theatre."
 date: 2022-11-10
 draft: false
 ---
@@ -17,7 +17,7 @@ Why do we pretend that we dont fart?
 
 &nbsp;
 
-Thats emotion, and flatulence thatre.
+Thats emotion, and flatulence theatre.
 
 &nbsp;
 

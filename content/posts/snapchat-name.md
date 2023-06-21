@@ -1,5 +1,5 @@
 ---
-title: "Snapchat usernames"
+title: "Snapchat usernames."
 date: 2022-11-03
 draft: false
 ---

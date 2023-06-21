@@ -1,5 +1,5 @@
 ---
-title: "my feet are cold"
+title: "my feet are cold."
 date: 2023-01-16
 draft: false
 ---
