@@ -18,7 +18,7 @@ Everybody knows a product needs to be SOMETHING. Imagine if a packet of ham was 
 
 YOU WOULD WANT IT CONFIRMED THAT THIS INDEED IS MEAT.
 
-*Meat flavoured no addatives* it not enough information to make any rational human being make this purchase.
+*Meat flavoured no addatives* is not enough information to make any rational human being make this purchase.
 
 Perhaps this is is how i find myself drinking this...
 
@@ -47,7 +47,7 @@ I can't say i look forward to drinking this.
 
 First i will pour some in my glass.
 
-However, i am immediatly noticing an empirical flaw in my review process.
+However, i am immediately noticing an empirical flaw in my review process.
 
 I have already put water in my glass, so i will have to pour the Hyldeblomst flavoured liquid into my water glass..
 
