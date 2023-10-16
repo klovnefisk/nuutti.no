@@ -1,5 +1,5 @@
 ---
-title: Biking home.
+title: biking home.
 date: 2023-09-28
 draft: false
 ---

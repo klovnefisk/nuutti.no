@@ -1,5 +1,5 @@
 ---
-title: "On starving"
+title: "on starving."
 date: 2022-09-07
 draft: false
 ---

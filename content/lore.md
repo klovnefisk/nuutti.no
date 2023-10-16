@@ -16,7 +16,7 @@ In the far north, decades ago, during a beautiful summer morning something amazi
 
 I've been screaming ever since.
 
-I'm a 22 year old guy. I like talking & thinking.
+I'm a 23 year old guy. I like talking & thinking.
 
 This website is a window into my [unprocessed thoughts](https://nuutti.no/posts/my-first-post).
 

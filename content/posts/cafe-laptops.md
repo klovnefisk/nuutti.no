@@ -1,5 +1,5 @@
 ---
-title: "laptop legion"
+title: "laptop legion."
 date: 2023-08-23
 draft: false
 ---
