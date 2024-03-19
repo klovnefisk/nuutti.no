@@ -1,16 +1,18 @@
 ---
 title: "trapped in time."
-date: 2023-10-27
+date: 2024-03-19
 draft: false
 ---
 
+
+    This blogpost was originally written september 2023.
 &nbsp;
 
 ### Time passes at a subjective speed.
 
 &nbsp;
 
-So how do i want to experience my time?
+So how do i want to experience *my* time?
 
 ***Slow or fast?***
 
@@ -40,9 +42,9 @@ Most memories feel like a short while in my mind.
 
 I biked from Trondheim to Oslo in a week. That week felt long when i was in it, but now it feels like a short weird story that i can tell in one sentence.
 
-But the bodily experience of the time passing, while biking the norwegian countryside for years cannot be underestimated.
+But the bodily experience of the time passing, while biking the norwegian countryside for days cannot be underestimated.
 
-It felt kind of bad at the time - and the hours and days spent on the bike felt like an eternity.
+It felt bad at the time - and the hours and days spent on the bike felt like an eternity.
 
 Maybe pain is the only path to slow seconds?
 
